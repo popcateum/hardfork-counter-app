@@ -1,0 +1,12 @@
+.background {
+  position: relative;
+  z-index: 1;
+  background: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
